@@ -39,7 +39,7 @@ h2 {
 
 /*Creación de margenes de las imagenes de las coders*/
 .codito img {
-    border: 1px solid #000;
+    border: 4px solid #000;
 }
 
 /*La utilización de hr sirve para crear un borde dentro del HTML*/
